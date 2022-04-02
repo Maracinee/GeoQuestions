@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoQuestions.Server", "Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoQuestions.Client", "Client\GeoQuestions.Client.csproj", "{19C07EA6-2C6F-4F9E-9C7B-5A8248273A6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoQuestions.Shared", "Shared\GeoQuestions.Shared.csproj", "{7A956D52-3393-48B7-B9B6-EF7B8C39CE9F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{19C07EA6-2C6F-4F9E-9C7B-5A8248273A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C07EA6-2C6F-4F9E-9C7B-5A8248273A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19C07EA6-2C6F-4F9E-9C7B-5A8248273A6A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A956D52-3393-48B7-B9B6-EF7B8C39CE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A956D52-3393-48B7-B9B6-EF7B8C39CE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A956D52-3393-48B7-B9B6-EF7B8C39CE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A956D52-3393-48B7-B9B6-EF7B8C39CE9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

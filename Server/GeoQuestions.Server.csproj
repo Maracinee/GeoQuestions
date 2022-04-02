@@ -12,7 +12,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Client\GeoQuestions.Client.csproj" />
-    <ProjectReference Include="..\Shared\GeoQuestions.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 
