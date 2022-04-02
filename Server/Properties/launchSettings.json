@@ -1,6 +1,6 @@
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Data Source=(LocalDb)\\LocalDB;Initial Catalog=MyBoost;Integrated Security=True"
+    "DefaultConnection": "Data Source=(LocalDb)\\LocalDB;Initial Catalog=GeoQuestion;Integrated Security=True"
   },
   "iisSettings": {
     "windowsAuthentication": false,
